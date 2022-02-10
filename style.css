@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding 800px;
+    padding: 100px;
 }
 
 .profile {
@@ -31,7 +31,7 @@ h1 {
 #bio {
     margin-top: 500;
     display: table-cell;
-    padding 50px;
+    padding: 50px;
     text-align: center;
     font-size: 42px
 }
@@ -62,7 +62,8 @@ h1 {
     font-family: fantasy;
 }
 
-.lier-width: 5px;
+.lier{
+    width: 5px;
     border-color: blueviolet;
     background-color: cyan;
 }
